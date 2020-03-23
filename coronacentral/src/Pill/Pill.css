@@ -1,0 +1,13 @@
+.pill{
+    background-color: #D1CCCC;   
+    border-radius: 20px;
+    padding: 5px 12px;
+    transition: 0.3s;
+    width: fit-content;
+    cursor: pointer;
+}
+
+.pill:hover{
+    background-color: #EFEFEF;
+    transition: 0.3s;
+}
