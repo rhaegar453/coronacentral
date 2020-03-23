@@ -1,2 +1,45 @@
 # Welcome to Corona Central
 
+## Fields 
+- Age (Number)
+- Gender (Single Select)
+  - Male 
+  - Female
+  - Others
+- Current Body Temperature (Single Select)
+  - 96- 98.6
+  - 98.6-102
+  - \>102
+  - Dont know
+- Are you experiencing any of the symptoms below? (MultiSelect)
+  - Dry Cough
+  - Sneezing
+  - Sore Throat
+  - Weakness
+- Additional Symptoms (Multiselect)
+  - Severe Cough
+  - Feeling Breathless
+  - Difficulty in Breathing 
+  - Drowsiness
+  - Persistant Pain in and pressure in chest
+  - Severe Weakness
+- Travel Exposure (Single Select)
+  - No Travel Exposure
+  - No contact with anyone with symptoms
+  - History of travel or meeting in affected geographical area in the last 14 days
+  - Close contact with confirmed Covid in last 14 days
+  - History of disease (Multiselect)
+    - Diabetes
+    - High BP
+    - Heart Disease
+    - Kidney Disease
+    - Lung Disease
+    - Stroke
+    - Reduced Immunity
+- Have your symptoms progressed over the last 48 hours?(Single Select)
+  - Improved 
+  - No Change
+  - Worsened
+  - Worsened Considerably
+
+- 
